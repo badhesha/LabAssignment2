@@ -13,6 +13,7 @@ def calculate(sheet):
     print("sheet is : ", sheet)
     print("The answer is: ", answer)
     print("rounded is: ", rounded)
+    print("==================================")
     return rounded
 
 output = calculate(10000)
