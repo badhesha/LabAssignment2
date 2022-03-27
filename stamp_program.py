@@ -23,3 +23,4 @@ def calculate(sheet):
 
 output = calculate(16)
 print("The number of stamps needed is: ", output)
+
